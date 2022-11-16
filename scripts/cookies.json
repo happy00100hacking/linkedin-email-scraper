@@ -1,0 +1,32 @@
+[
+  {
+    "name": "li_at",
+    "value": "AQEDAT6hVSYEh7f-AAABhD829h8AAAGEY0N6H1YADUhd18g8_Oyzb6JotFM-UqCwHM5MPuy3bKhcABWw2NBPTtQ0Qe_SfwQsYFIQhvxoyhHaq1Wa60pdBziMPqFmuCuy61hUbydwsQEuGThYhI8pmb9T",
+    "domain": ".www.linkedin.com",
+    "path": "/",
+    "expires": 1670683317,
+    "size": 157,
+    "httpOnly": true,
+    "secure": true,
+    "session": false,
+    "sameSite": "None",
+    "sameParty": false,
+    "sourceScheme": "Secure",
+    "sourcePort": 443
+  },
+  {
+    "name": "JSESSIONID",
+    "value": "ajax:604943910877292780",
+    "domain": ".www.linkedin.com",
+    "path": "/",
+    "expires": 1670683317,
+    "size": 34,
+    "httpOnly": false,
+    "secure": true,
+    "session": true,
+    "sameSite": "None",
+    "sameParty": false,
+    "sourceScheme": "Secure",
+    "sourcePort": 443
+  }
+]
